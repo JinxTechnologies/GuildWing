@@ -11,7 +11,7 @@ npm install guildwing
 
 ## Usage
 
-```python
+```javascript
 const { Client } = require("guildwing");
 
 const client = new Client({
