@@ -40,6 +40,8 @@ client.login()
 ```
 
 ## Links
-Guilded Server: https://www.guilded.gg/i/EwbAgqPp 
+Guilded Server: https://www.guilded.gg/i/EwbAgqPp
+
 NPM: https://www.npmjs.com/package/guildwing 
+
 Github: https://github.com/TheRealShitDev/GuildWing 
