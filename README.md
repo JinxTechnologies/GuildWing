@@ -45,3 +45,6 @@ Guilded Server: https://www.guilded.gg/i/EwbAgqPp
 NPM: https://www.npmjs.com/package/guildwing 
 
 Github: https://github.com/TheRealShitDev/GuildWing 
+
+## Licensing
+GuildWing is licensed under [MIT](https://github.com/TheRealShitDev/GuildWing/blob/main/LICENSE)
